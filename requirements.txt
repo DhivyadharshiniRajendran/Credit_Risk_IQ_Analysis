@@ -1,0 +1,13 @@
+pandas
+requests
+beautifulsoup4
+textblob
+streamlit
+matplotlib
+graphviz
+lxml
+pdfplumber
+fpdf
+openpyxl
+yfinance
+google-generativeai
