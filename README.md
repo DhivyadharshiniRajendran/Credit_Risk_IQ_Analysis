@@ -1,4 +1,4 @@
-# CredIQ  
+# Credit Risk Analysis 
 <div align="center">
 
 <h2>AI-Powered Credit Risk & Corporate Due Diligence Engine</h2>
